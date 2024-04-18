@@ -1,5 +1,5 @@
 ---
-title: <a-torus>
+title: <a-toru    s>
 type: primitives
 layout: docs
 parent_section: primitives
